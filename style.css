@@ -1,0 +1,56 @@
+body{
+    margin: 0;
+background-color: #2C3E50;
+}
+
+img{
+    height: 70vh;
+    display: block;
+    width: 30vw;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin:50px auto;
+    border-radius: 50%;
+}
+.date{
+    color: #fff;
+    text-align: center;
+}
+.name{
+    text-align: center;
+    color: #fff;
+    font-size: 3rem;
+}
+.middle{
+    display: block;
+    margin: 20px 5.5rem;
+}
+.bold{
+    color: #fff;
+    font-size: 2.3rem;
+}
+.about{
+    color: #fff;
+}
+.bottom-box{
+    height: 50vh;
+    width: 100vw;
+    background-color: #fff;
+    margin-top: 30px;
+}
+.click{
+    text-align: center;
+    color: #2C3E50;
+    font-size: 2.5rem;
+    padding-top: 30px;
+}
+.link{
+    text-align: center;
+    color: #2C3E50;
+    font-size: 1.5rem;
+}
+.wiki{
+    text-align: center;
+    color: #2C3E50;
+    font-size: 1.5rem;
+}
